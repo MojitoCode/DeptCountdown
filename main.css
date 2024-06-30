@@ -1,35 +1,38 @@
 #mainWelcome {
     margin: auto;
-    width: 50%;
+    width: 100%;
     font-family: 'Courier New'; 
     font-weight: lighter;
-    color: rgb(248, 248, 248);
+    color: rgb(223, 140, 32);
     background-color: rgb(15, 17, 16);
     
 }
 
 #mainBY {
+    margin:auto;
     
+    width: 100%;
     font-family: 'Courier New'; 
     font-weight: lighter;
     color: rgb(248, 248, 248);
-    background-color: rgb(15, 17, 16);
+    background-color: rgb(22, 22, 22);
 }
 
 
 body {
-    background-color: rgb(22, 27, 25);
+    background-color: rgb(248, 248, 248);
 }
 
 .center {
-    width: 50%;
+    width: 100%;
     margin: auto;
     border: 8px solid;
     text-align: center;
 }
 
 .centerNav{
-    width: 50%;
+    padding-top: 5%;
+    padding-right: 100%;
     margin: auto;
-    text-align: center;
+    text-align: left;
 }
